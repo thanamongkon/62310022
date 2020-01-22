@@ -7,6 +7,7 @@
 <?php
 echo "Hello World!";
 echo "Thanamongkon 62310022"
+echo "Phongsakorn 62310134"
 ?>
 
 </body>
